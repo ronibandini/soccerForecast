@@ -1,4 +1,4 @@
-# soccerForecast
+# Soccer Forecast with Arduino UNO R4 Minima and Edge Impulse
 Arduino UNO R4 Minima Soccer forecast with Machine Learning (Edge Impulse)
 
 For this project I have downloaded the FIFA databases, extracted certain features, converted string columns to numeric and trained a model to make forecast using home team, away team, fifa rank and neutral location.
